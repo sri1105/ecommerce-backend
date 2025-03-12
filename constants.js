@@ -12,7 +12,8 @@ export default Object.freeze({
     },
     STATUS_CODES: {
        SUCCESS: '9',
-       SYSTEM_ERROR: '6'
+       SYSTEM_ERROR: '6',
+       INVALID_PRODUCT_ID: '3'
     },
     SYSTEM_MESSAGES: {
         SYSTEM_ERROR: 'Oops something went wrong.',
